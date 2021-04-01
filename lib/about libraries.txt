@@ -1,1 +1,3 @@
 Download the libraries MADAMIRA and stanford-parser from thier websites.
+- MADAMIRA-release-20170403-2.1
+- stanford-parser-full-2018-10-17
