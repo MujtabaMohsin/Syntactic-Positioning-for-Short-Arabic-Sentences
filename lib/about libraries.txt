@@ -1,0 +1,1 @@
+Download the libraries MADAMIRA and stanford-parser from thier websites.

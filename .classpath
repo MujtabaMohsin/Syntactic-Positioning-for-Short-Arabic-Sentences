@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Java Projects/Arabic I&apos;rab - ICS 484 Project/lib/المكتبات/MADAMIRA-release-20170403-2.1/MADAMIRA-release-20170403-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Java Projects/Arabic I&apos;rab - ICS 484 Project/lib/المكتبات/stanford-parser-full-2018-10-17/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Java Projects/Arabic I&apos;rab - ICS 484 Project/lib/المكتبات/stanford-parser-full-2018-10-17/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Java Projects/Arabic I&apos;rab - ICS 484 Project/lib/المكتبات/stanford-parser-full-2018-10-17/slf4j-api-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Java Projects/Arabic I&apos;rab - ICS 484 Project/lib/المكتبات/stanford-parser-full-2018-10-17/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Java Projects/Arabic I&apos;rab - ICS 484 Project/lib/المكتبات/stanford-parser-full-2018-10-17/stanford-parser-3.9.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Java Projects/Arabic I&apos;rab - ICS 484 Project/lib/المكتبات/stanford-parser-full-2018-10-17/stanford-parser-3.9.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Java Projects/Arabic I&apos;rab - ICS 484 Project/lib/المكتبات/stanford-parser-full-2018-10-17/stanford-parser-3.9.2-models.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
