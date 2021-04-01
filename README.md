@@ -18,3 +18,4 @@ The program supports only these for now (in Arabic):
 -	أسماء الإشارة والموصولة
 -	ضمائر الفاعل
 
+![screenshot_903](https://user-images.githubusercontent.com/64940728/113271158-e2c8b280-92e2-11eb-92e7-a9b35111eeeb.jpg)
