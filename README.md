@@ -18,4 +18,11 @@ The program supports only these for now (in Arabic):
 -	أسماء الإشارة والموصولة
 -	ضمائر الفاعل
 
+#### Instrctions (In Arabic):
+- عشر كلمات للجملة
+-	الأفعال تكون للمبني للمعلوم
+-	 أفعال الأمر غير مدعومة
+-	 جمل المصدر المؤول غير مدعومة.
+
+
 ![screenshot_903](https://user-images.githubusercontent.com/64940728/113271158-e2c8b280-92e2-11eb-92e7-a9b35111eeeb.jpg)
